@@ -20,6 +20,7 @@ export ANDROID_SDK="/Users/eugene/Library/Android/sdk"
 
 export LDFLAGS="-L/usr/local/opt/ncurses/lib"
 export CPPFLAGS="-I/usr/local/opt/ncurses/include"
+export PKG_CONFIG_PATH="/usr/local/opt/ruby/lib/pkgconfig"
 
 # Node
 export NVM_DIR="$HOME/.nvm"
